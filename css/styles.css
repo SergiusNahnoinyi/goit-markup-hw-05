@@ -193,6 +193,7 @@ ul {
 }
 
 .button-primary {
+  padding: 10px 32px;
   border: transparent;
   border-radius: 4px;
   font-family: inherit;
