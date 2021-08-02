@@ -572,7 +572,8 @@ ul {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.project-link:hover .project-overlay-description {
+.project-link:hover .project-overlay-description,
+.project-link:focus .project-overlay-description {
   transform: translateY(0%);
 }
 
